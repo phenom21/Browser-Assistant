@@ -1,5 +1,5 @@
 # Browser-Assistant
-A selenium python based bot that serves as a assitant to the user, helping him in his day to day tasks related to browser. 
+A selenium python based bot that serves as a assistant to the user, helping him in his day to day tasks related to browser. 
 # What-does-the-bot-do?
 - The "notifications.py" script checks in every hour if my college website "nitj.ac.in" has got any new notification concering the students.<br />
 - The "whatsapp_and_amazon_automation" script checks everyday at 12am if any of my friends have their birthdates on the current date and wishes them greetings automatically using whatsapp web, while the amazon part of the script checks if the price of an amazon product lies within my budget and informs me about it.<br />
